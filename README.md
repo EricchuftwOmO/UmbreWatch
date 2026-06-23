@@ -28,7 +28,10 @@ An Edge-Fog-Cloud IoT system that prevents forgotten and stolen umbrellas using 
 ## Setup Guide
 
 ### 1. Import Node-RED Flow
-Import the Node-RED flow to program the main logic and connect edge sensors to MQTT.
+Import `node-red-flow.json` into Node-RED:
+1. Open Node-RED in your browser (`http://<RaspberryPi_IP>:1880`)
+2. Click the top-right menu → **Import**
+3. Select `node-red-flow.json` from this repo and click **Import**
 
 ### 2. Configure IP Addresses
 Update the following to match your own network:
@@ -39,8 +42,9 @@ Update the following to match your own network:
 - In Grafana → Connections → Data Sources → DB → URL: set to `http://<RaspberryPi_IP>:8086`.
 
 ### 3. Configure API Keys
-- **Node-RED "send Picture To LLM" node**: insert your Azure OpenAI API key.
-- **Node-RED "set zip code" node**: insert your OpenWeather API key.
+The API keys in `node-red-flow.json` have been replaced with placeholders. Fill in your own keys:
+- **Node-RED "Send Picture To LLM" node**: replace `YOUR_AZURE_OPENAI_API_KEY` with your Azure OpenAI API key.
+- **Node-RED "set zip code" node**: replace `YOUR_OPENWEATHER_API_KEY` with your OpenWeather API key.
 
 ### 4. Create Azure OpenAI Service
 Deploy an Azure OpenAI resource to enable LLM-based image reasoning.

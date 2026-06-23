@@ -28,7 +28,10 @@
 ## 安裝與設定
 
 ### 1. 匯入 Node-RED 流程
-匯入 Node-RED flow，設定感測器與 MQTT 之間的邏輯流程。
+將 `node-red-flow.json` 匯入 Node-RED：
+1. 在瀏覽器開啟 Node-RED（`http://<RaspberryPi_IP>:1880`）
+2. 點擊右上角選單 → **Import**
+3. 選擇本 repo 的 `node-red-flow.json` 並點擊 **Import**
 
 ### 2. 設定 IP 位址
 請依照自己的網路環境修改以下設定：
@@ -39,8 +42,9 @@
 - Grafana → Connections → Data Sources → DB → URL：改為 `http://<RaspberryPi_IP>:8086`。
 
 ### 3. 設定 API 金鑰
-- **Node-RED「send Picture To LLM」節點**：填入 Azure OpenAI API 金鑰。
-- **Node-RED「set zip code」節點**：填入 OpenWeather API 金鑰。
+`node-red-flow.json` 中的 API 金鑰已替換為佔位符，請填入自己的金鑰：
+- **Node-RED「Send Picture To LLM」節點**：將 `YOUR_AZURE_OPENAI_API_KEY` 替換為你的 Azure OpenAI API 金鑰。
+- **Node-RED「set zip code」節點**：將 `YOUR_OPENWEATHER_API_KEY` 替換為你的 OpenWeather API 金鑰。
 
 ### 4. 建立 Azure OpenAI 服務
 在 Azure 上部署 OpenAI 資源，以啟用 LLM 圖像推理功能（分析照片中人物是否表現緊張）。
