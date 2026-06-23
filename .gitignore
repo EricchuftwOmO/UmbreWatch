@@ -1,0 +1,36 @@
+# Python virtual environment
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Runtime-generated images (created during system operation)
+slot1_owner.jpg
+slot2_owner.jpg
+temp_remove.jpg
+
+# Personal face photos — add your own images here locally
+my_faces/*.jpg
+my_faces/*.jpeg
+my_faces/*.png
+
+# DeepFace auto-generated cache (rebuilt on first run)
+my_faces/*.pkl
+*.pkl
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Environment variables / secrets
+.env
+*.env
