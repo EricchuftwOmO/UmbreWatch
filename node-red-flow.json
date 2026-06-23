@@ -1,0 +1,1880 @@
+[
+    {
+        "id": "ab2f4a81bf465f8d",
+        "type": "tab",
+        "label": "Final Project",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "7146dc38e057fa02",
+        "type": "group",
+        "z": "ab2f4a81bf465f8d",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "2a787c8a315b368e",
+            "75f57ab2b37b6476",
+            "8d38e1c800b5eaba",
+            "3d48c79380c276b4",
+            "75978d8b3764b663",
+            "2446d32b238f6e0d",
+            "a452a1dbc481547e",
+            "66ce75a9706ee064",
+            "187172a8d46de0d8",
+            "3ca3aeec2bcd10e5",
+            "4868fdc2cdf4da64",
+            "296afb2cce9ab821",
+            "8910bccf723bb86b",
+            "ca6c5dda54cc5265",
+            "4deac6451dd247a6",
+            "50d0b30b8349c96f",
+            "8bfd534657e86e31"
+        ],
+        "x": 34,
+        "y": 59,
+        "w": 1172,
+        "h": 362
+    },
+    {
+        "id": "d3ad16f210e0bee4",
+        "type": "group",
+        "z": "ab2f4a81bf465f8d",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "4a49e707fde4cadb",
+            "65f1a3137c9f6439",
+            "18847f520029c0ed",
+            "4482a07be1875110",
+            "8c5431ce5466ae3f",
+            "6999a44dfa54cfac",
+            "830908e4d326504c",
+            "8eb009d5e9ec8096",
+            "6e5ce1b8bd2bf91f",
+            "3c35a31836b9c61a",
+            "b469a20c054ac206",
+            "33c25c6e8ff87e0d",
+            "81aefb574fc33758"
+        ],
+        "x": 34,
+        "y": 1119,
+        "w": 1532,
+        "h": 222
+    },
+    {
+        "id": "b4872f5cdd54b4ed",
+        "type": "group",
+        "z": "ab2f4a81bf465f8d",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "daa7533f5f939bae",
+            "3e625bab597282cf",
+            "e48063632980cc1d",
+            "098e2962a804424d",
+            "a8d7b211dee94879",
+            "3430071316ded50a",
+            "206d8b9da7104a54",
+            "3b572f5562036c47",
+            "f6ab6f360d570349",
+            "1fc9d881a3c7abc7",
+            "dabe05c3286c7c4c"
+        ],
+        "x": 34,
+        "y": 759,
+        "w": 972,
+        "h": 302
+    },
+    {
+        "id": "2feb962cbd0cf177",
+        "type": "group",
+        "z": "ab2f4a81bf465f8d",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "c92669e550dc12a0",
+            "48c65e5658c64ce2",
+            "25c94f52908c3288",
+            "29cd7ca31f2410d9",
+            "2f74150d786b216e",
+            "48ee20a8b6f3e1bd",
+            "5db1bec478fdca22"
+        ],
+        "x": 214,
+        "y": 459,
+        "w": 772,
+        "h": 222
+    },
+    {
+        "id": "4e1d0c813716e48b",
+        "type": "group",
+        "z": "ab2f4a81bf465f8d",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "eb7c8ae090410656",
+            "c641b4904a893be6",
+            "b8c7b271ae2c0130",
+            "c536973b6ae76c6c",
+            "46b0ea790a569d7e",
+            "0dd750ad60edef08",
+            "e002fc225fbba266",
+            "92fc8218f9ae6c5a"
+        ],
+        "x": 1014,
+        "y": 599,
+        "w": 892,
+        "h": 182
+    },
+    {
+        "id": "b8f9e68a1df4fd2f",
+        "type": "group",
+        "z": "ab2f4a81bf465f8d",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "3e9ffd49a0e7b712",
+            "bae979b74d45049e",
+            "9d23ce11836d601a",
+            "6a35ebb55fe59525",
+            "67ce99b3ae10f5f5",
+            "0ac8ce35d316d601",
+            "6e102c77892b2a60",
+            "cd5144f2d049aae0",
+            "9161fb36bc8ae19a",
+            "082e52ec9a03832a",
+            "39cfbc32fb5c9918",
+            "c29a0bcc4e8a451b"
+        ],
+        "x": 34,
+        "y": 1399,
+        "w": 1432,
+        "h": 342
+    },
+    {
+        "id": "2a787c8a315b368e",
+        "type": "grovepi-ultrasonic",
+        "z": "ab2f4a81bf465f8d",
+        "g": "7146dc38e057fa02",
+        "name": "Ultrasonic Sensor Slot_1 (D8)",
+        "mode": "timer",
+        "interval": "5",
+        "unit": "s",
+        "pin": "8",
+        "sensorname": "Ultrasonic Ranger",
+        "sensorid": "grovepi.ultrasonic-ranger.1",
+        "x": 180,
+        "y": 200,
+        "wires": [
+            [
+                "29cd7ca31f2410d9",
+                "2446d32b238f6e0d"
+            ]
+        ]
+    },
+    {
+        "id": "75f57ab2b37b6476",
+        "type": "grovepi-ultrasonic",
+        "z": "ab2f4a81bf465f8d",
+        "g": "7146dc38e057fa02",
+        "name": "Ultrasonic Sensor Slot_2 (D7)",
+        "mode": "timer",
+        "interval": "5",
+        "unit": "s",
+        "pin": "7",
+        "sensorname": "Ultrasonic Ranger",
+        "sensorid": "grovepi.ultrasonic-ranger.1",
+        "x": 180,
+        "y": 280,
+        "wires": [
+            [
+                "2f74150d786b216e",
+                "296afb2cce9ab821"
+            ]
+        ]
+    },
+    {
+        "id": "8d38e1c800b5eaba",
+        "type": "grovepi-led",
+        "z": "ab2f4a81bf465f8d",
+        "g": "7146dc38e057fa02",
+        "name": "Green LED Slot_1 (D6)",
+        "pin": "6",
+        "x": 1070,
+        "y": 100,
+        "wires": []
+    },
+    {
+        "id": "4a49e707fde4cadb",
+        "type": "grovepi-digital-input",
+        "z": "ab2f4a81bf465f8d",
+        "d": true,
+        "g": "d3ad16f210e0bee4",
+        "name": "Motion Sensor Inside",
+        "mode": "timer",
+        "interval": 1,
+        "unit": "s",
+        "pin": "2",
+        "sensorname": "Digital Input",
+        "sensorid": "grovepi.digital-input.1",
+        "x": 160,
+        "y": 1220,
+        "wires": [
+            [
+                "4482a07be1875110"
+            ]
+        ]
+    },
+    {
+        "id": "65f1a3137c9f6439",
+        "type": "file in",
+        "z": "ab2f4a81bf465f8d",
+        "g": "d3ad16f210e0bee4",
+        "name": "read Umbrella Slots Status",
+        "filename": "",
+        "filenameType": "str",
+        "format": "utf8",
+        "chunk": false,
+        "sendError": false,
+        "encoding": "none",
+        "allProps": false,
+        "x": 940,
+        "y": 1260,
+        "wires": [
+            [
+                "8eb009d5e9ec8096"
+            ]
+        ]
+    },
+    {
+        "id": "18847f520029c0ed",
+        "type": "grovepi-digital-input",
+        "z": "ab2f4a81bf465f8d",
+        "d": true,
+        "g": "d3ad16f210e0bee4",
+        "name": "Motion Sensor Outside",
+        "mode": "timer",
+        "interval": 1,
+        "unit": "s",
+        "pin": "2",
+        "sensorname": "Digital Input",
+        "sensorid": "grovepi.digital-input.1",
+        "x": 160,
+        "y": 1300,
+        "wires": [
+            [
+                "8c5431ce5466ae3f"
+            ]
+        ]
+    },
+    {
+        "id": "4482a07be1875110",
+        "type": "function",
+        "z": "ab2f4a81bf465f8d",
+        "g": "d3ad16f210e0bee4",
+        "name": "motion_inside",
+        "func": "msg.topic = \"motion_inside\";\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 420,
+        "y": 1220,
+        "wires": [
+            [
+                "6999a44dfa54cfac"
+            ]
+        ]
+    },
+    {
+        "id": "8c5431ce5466ae3f",
+        "type": "function",
+        "z": "ab2f4a81bf465f8d",
+        "g": "d3ad16f210e0bee4",
+        "name": "motion_outside",
+        "func": "msg.topic = \"motion_outside\";\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 420,
+        "y": 1300,
+        "wires": [
+            [
+                "6999a44dfa54cfac"
+            ]
+        ]
+    },
+    {
+        "id": "6999a44dfa54cfac",
+        "type": "function",
+        "z": "ab2f4a81bf465f8d",
+        "g": "d3ad16f210e0bee4",
+        "name": "ComeOrLeave",
+        "func": "// 取得全域暫存的時間記錄\nlet lastTrigger = context.get('lastTrigger') || null;\nlet lastTime = context.get('lastTime') || 0;\nlet now = Date.now();\n\n// 設定感應間隔（例如 3 秒內連續觸發才算一組動作）\nlet timeout = 3000;\n\nif (lastTrigger === null || (now - lastTime) > timeout) {\n    // 這是第一顆感測器被觸發，記錄下來\n    context.set('lastTrigger', msg.topic);\n    context.set('lastTime', now);\n    return null; // 還沒完成判斷，不輸出\n} else {\n    // 這是短時間內的第二顆感測器觸發\n    if (lastTrigger === \"outside\" && msg.topic === \"inside\") {\n        msg.payload = \"Customer Entered (客人進店)\";\n    } else if (lastTrigger === \"inside\" && msg.topic === \"outside\") {\n        msg.payload = \"Customer Left (客人離開)\";\n    }\n\n    // 重置記錄，準備下一次判斷\n    context.set('lastTrigger', null);\n    return msg;\n}",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 660,
+        "y": 1260,
+        "wires": [
+            [
+                "65f1a3137c9f6439"
+            ]
+        ]
+    },
+    {
+        "id": "830908e4d326504c",
+        "type": "comment",
+        "z": "ab2f4a81bf465f8d",
+        "g": "d3ad16f210e0bee4",
+        "name": "Motion detect & notify people to bring there umbrella",
+        "info": "",
+        "x": 250,
+        "y": 1160,
+        "wires": []
+    },
+    {
+        "id": "8eb009d5e9ec8096",
+        "type": "delay",
+        "z": "ab2f4a81bf465f8d",
+        "g": "d3ad16f210e0bee4",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "5",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 1180,
+        "y": 1260,
+        "wires": [
+            [
+                "6e5ce1b8bd2bf91f"
+            ]
+        ]
+    },
+    {
+        "id": "6e5ce1b8bd2bf91f",
+        "type": "file in",
+        "z": "ab2f4a81bf465f8d",
+        "g": "d3ad16f210e0bee4",
+        "name": "read Umbrella Slots Status",
+        "filename": "",
+        "filenameType": "str",
+        "format": "utf8",
+        "chunk": false,
+        "sendError": false,
+        "encoding": "none",
+        "allProps": false,
+        "x": 1420,
+        "y": 1260,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "48c65e5658c64ce2",
+        "type": "inject",
+        "z": "ab2f4a81bf465f8d",
+        "g": "2feb962cbd0cf177",
+        "name": "Manually Trigger Camera",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 370,
+        "y": 640,
+        "wires": [
+            [
+                "25c94f52908c3288"
+            ]
+        ]
+    },
+    {
+        "id": "25c94f52908c3288",
+        "type": "camerapi-takephoto",
+        "z": "ab2f4a81bf465f8d",
+        "g": "2feb962cbd0cf177",
+        "filemode": "0",
+        "filename": "",
+        "filedefpath": "1",
+        "filepath": "",
+        "fileformat": "jpeg",
+        "resolution": "8",
+        "rotation": "0",
+        "fliph": "0",
+        "flipv": "0",
+        "brightness": "50",
+        "contrast": "0",
+        "sharpness": "0",
+        "quality": "80",
+        "imageeffect": "none",
+        "exposuremode": "auto",
+        "iso": "0",
+        "agcwait": "1.0",
+        "led": "0",
+        "awb": "auto",
+        "name": "",
+        "x": 640,
+        "y": 560,
+        "wires": [
+            [
+                "c92669e550dc12a0",
+                "eb7c8ae090410656",
+                "0dd750ad60edef08",
+                "5db1bec478fdca22"
+            ]
+        ]
+    },
+    {
+        "id": "29cd7ca31f2410d9",
+        "type": "function",
+        "z": "ab2f4a81bf465f8d",
+        "g": "2feb962cbd0cf177",
+        "name": "Check Slot_1 Status",
+        "func": "// 1. 取得當前的距離數值\nlet distance = Number(msg.payload);\n\n// 2. 判斷現在「有沒有傘」 (小於 5 公分代表有傘)\nlet hasUmbrella = (distance < 5);\n\n// 3. 取得「前一次」的狀態\nlet lastState = context.get('lastState') || false;\ncontext.set('lastState', hasUmbrella);\n\n// 4. 判斷邏輯並賦予專屬 Topic\nif (hasUmbrella === true && lastState === false) {\n    // 狀況 A：剛放入雨傘\n    msg.topic = \"umbrella/slot1/insert\";  // 告訴電腦這是 Slot 1 放入\n    msg.payload = \"Take Photo\";\n    return msg; \n    \n} else if (hasUmbrella === false && lastState === true) {\n    // 狀況 B：剛拿走雨傘\n    msg.topic = \"umbrella/slot1/remove\";  // 告訴電腦這是 Slot 1 拿走\n    msg.payload = \"Take Photo\";\n    return msg; \n    \n} else {\n    // 狀況 C：狀態沒變，不拍照\n    return null;\n}",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 380,
+        "y": 560,
+        "wires": [
+            [
+                "25c94f52908c3288"
+            ]
+        ]
+    },
+    {
+        "id": "c92669e550dc12a0",
+        "type": "mqtt out",
+        "z": "ab2f4a81bf465f8d",
+        "g": "2feb962cbd0cf177",
+        "name": "",
+        "topic": "",
+        "qos": "0",
+        "retain": "",
+        "respTopic": "",
+        "contentType": "",
+        "userProps": "",
+        "correl": "",
+        "expiry": "",
+        "broker": "ab4d4cf5bda44ea0",
+        "x": 910,
+        "y": 560,
+        "wires": []
+    },
+    {
+        "id": "2f74150d786b216e",
+        "type": "function",
+        "z": "ab2f4a81bf465f8d",
+        "g": "2feb962cbd0cf177",
+        "name": "Check Slot_2 Status",
+        "func": "let distance = Number(msg.payload);\nlet hasUmbrella = (distance < 5);\n\n// Node-RED 的 context 記憶是每個節點獨立的，所以不會和 Slot 1 打架\nlet lastState = context.get('lastState') || false;\ncontext.set('lastState', hasUmbrella);\n\nif (hasUmbrella === true && lastState === false) {\n    msg.topic = \"umbrella/slot2/insert\";  // 改為 slot2\n    msg.payload = \"Take Photo\";\n    return msg; \n} else if (hasUmbrella === false && lastState === true) {\n    msg.topic = \"umbrella/slot2/remove\";  // 改為 slot2\n    msg.payload = \"Take Photo\";\n    return msg; \n} else {\n    return null;\n}",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 380,
+        "y": 600,
+        "wires": [
+            [
+                "25c94f52908c3288"
+            ]
+        ]
+    },
+    {
+        "id": "3e625bab597282cf",
+        "type": "mqtt in",
+        "z": "ab2f4a81bf465f8d",
+        "g": "b4872f5cdd54b4ed",
+        "name": "",
+        "topic": "umbrella/alarm",
+        "qos": "0",
+        "datatype": "utf8",
+        "broker": "ab4d4cf5bda44ea0",
+        "nl": false,
+        "rap": true,
+        "rh": 0,
+        "inputs": 0,
+        "x": 140,
+        "y": 860,
+        "wires": [
+            [
+                "daa7533f5f939bae"
+            ]
+        ]
+    },
+    {
+        "id": "daa7533f5f939bae",
+        "type": "function",
+        "z": "ab2f4a81bf465f8d",
+        "g": "b4872f5cdd54b4ed",
+        "name": "Check Alarm Status & Set LCD",
+        "func": "if (msg.payload === \"ON\") {\n    // msg.payload = true; // 觸發蜂鳴器\n    // return msg;\n    msg.payload = {\n        \"warning\": true,\n        \"line1\": \"Warning!!\",  // 螢幕要顯示的文字\n        \"line2\": \"Theft detected!!!\",\n        \"color\": \"red\"\n    };\n    return msg;\n}\nreturn null;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 410,
+        "y": 860,
+        "wires": [
+            [
+                "206d8b9da7104a54",
+                "3b572f5562036c47"
+            ]
+        ]
+    },
+    {
+        "id": "e48063632980cc1d",
+        "type": "grovepi-buzzer",
+        "z": "ab2f4a81bf465f8d",
+        "g": "b4872f5cdd54b4ed",
+        "name": "",
+        "pin": "2",
+        "x": 930,
+        "y": 860,
+        "wires": []
+    },
+    {
+        "id": "098e2962a804424d",
+        "type": "inject",
+        "z": "ab2f4a81bf465f8d",
+        "g": "b4872f5cdd54b4ed",
+        "name": "Manually Turn off the alarm buzzer",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "false",
+        "payloadType": "bool",
+        "x": 440,
+        "y": 920,
+        "wires": [
+            [
+                "e48063632980cc1d"
+            ]
+        ]
+    },
+    {
+        "id": "eb7c8ae090410656",
+        "type": "function",
+        "z": "ab2f4a81bf465f8d",
+        "g": "4e1d0c813716e48b",
+        "name": "Send Picture To LLM",
+        "func": "// 1. 設定你的 API Key (從 Azure Portal 的 \"Manage keys\" 取得)\nconst apiKey = \"YOUR_AZURE_OPENAI_API_KEY\";\n\n// 2. 準備 HTTP Header\nmsg.headers = {\n    \"api-key\": apiKey,\n    \"Content-Type\": \"application/json\"\n};\n\n// 3. 處理圖片：將相機輸出的 Buffer 轉為 Base64\n// 假設前方相機節點輸出在 msg.payload\nlet base64Image = \"\";\nif (Buffer.isBuffer(msg.payload)) {\n    base64Image = msg.payload.toString('base64');\n} else {\n    node.error(\"找不到有效的圖片資料，請確認相機節點輸出格式為 Buffer\");\n    return null;\n}\n\n// 4. 組合成 Azure OpenAI 要求的 JSON 格式\nmsg.payload = {\n    \"messages\": [\n        {\n            \"role\": \"system\",\n            \"content\": \"Your are eyes of a smart umbrella rack.\"\n        },\n        {\n            \"role\": \"user\",\n            \"content\": [\n                {\n                    \"type\": \"text\",\n                    \"text\": \"This image shows the area in front of an umbrella rack. Please briefly describe what you see. If there is a person in the image, do they appear nervous? Do they exhibit any suspicious behavior similar to a thief?\"\n                },\n                {\n                    \"type\": \"image_url\",\n                    \"image_url\": {\n                        \"url\": \"data:image/jpeg;base64,\" + base64Image\n                    }\n                }\n            ]\n        }\n    ],\n    \"max_tokens\": 500,\n    \"temperature\": 0.5\n};\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1140,
+        "y": 700,
+        "wires": [
+            [
+                "c641b4904a893be6"
+            ]
+        ]
+    },
+    {
+        "id": "c641b4904a893be6",
+        "type": "http request",
+        "z": "ab2f4a81bf465f8d",
+        "g": "4e1d0c813716e48b",
+        "name": "",
+        "method": "POST",
+        "ret": "obj",
+        "paytoqs": "ignore",
+        "url": "https://llmforfinalproject.openai.azure.com/openai/deployments/gpt-4.1/chat/completions?api-version=2024-02-15-preview",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [],
+        "x": 1330,
+        "y": 700,
+        "wires": [
+            [
+                "c536973b6ae76c6c"
+            ]
+        ]
+    },
+    {
+        "id": "b8c7b271ae2c0130",
+        "type": "debug",
+        "z": "ab2f4a81bf465f8d",
+        "g": "4e1d0c813716e48b",
+        "name": "debug 11",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1720,
+        "y": 640,
+        "wires": []
+    },
+    {
+        "id": "c536973b6ae76c6c",
+        "type": "function",
+        "z": "ab2f4a81bf465f8d",
+        "g": "4e1d0c813716e48b",
+        "name": "extractMessageFromLLM",
+        "func": "// 確保傳入的是物件格式\nlet data = msg.payload;\n\n// 如果資料還是 JSON 字串，先轉換它\nif (typeof data === \"string\") {\n    try {\n        data = JSON.parse(data);\n    } catch (e) {\n        node.error(\"無法解析 JSON 資料\");\n    }\n}\n\n// 提取 AI 的回答文字 (這是關鍵路徑)\nif (data && data.choices && data.choices[0] && data.choices[0].message) {\n    let aiResponse = data.choices[0].message.content;\n    \n    // 將結果加上 Markdown 標籤後傳出\n    msg.payload = aiResponse;\n    return msg;\n}\n\nnode.error(\"API 回傳格式不符合預期\");\nreturn null;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1530,
+        "y": 700,
+        "wires": [
+            [
+                "b8c7b271ae2c0130",
+                "e002fc225fbba266"
+            ]
+        ]
+    },
+    {
+        "id": "46b0ea790a569d7e",
+        "type": "ui-template",
+        "z": "ab2f4a81bf465f8d",
+        "g": "4e1d0c813716e48b",
+        "group": "0de2c976328896fa",
+        "page": "",
+        "ui": "",
+        "name": "showPictureOnDashboard",
+        "order": 1,
+        "width": 5,
+        "height": 0,
+        "head": "",
+        "format": "<template>\n    <div style=\"text-align: center;\">\n        <img :src=\"msg.payload\" style=\"max-width: 100%; height: auto; border: 2px solid #ccc; border-radius: 8px;\">\n    </div>\n</template>",
+        "storeOutMessages": true,
+        "passthru": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "className": "",
+        "x": 1350,
+        "y": 740,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "0dd750ad60edef08",
+        "type": "function",
+        "z": "ab2f4a81bf465f8d",
+        "g": "4e1d0c813716e48b",
+        "name": "Send Picture To UI",
+        "func": "// 1. 取得相機原始資料並轉為 Base64\nconst base64Data = msg.payload.toString('base64');\nconst base64Full = \"data:image/jpeg;base64,\" + base64Data;\n\n// 2. 輸出 1：直接給 Dashboard 顯示 (拍完立刻觸發)\nlet msgToUI = {\n    payload: base64Full\n};\n\nreturn msgToUI;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1130,
+        "y": 740,
+        "wires": [
+            [
+                "46b0ea790a569d7e"
+            ]
+        ]
+    },
+    {
+        "id": "e002fc225fbba266",
+        "type": "ui-markdown",
+        "z": "ab2f4a81bf465f8d",
+        "g": "4e1d0c813716e48b",
+        "group": "0de2c976328896fa",
+        "name": "AI's Response",
+        "order": 2,
+        "width": 0,
+        "height": 0,
+        "content": "### 🤖 AI's Report\n<div style=\"font-size: 24px; line-height: 1.5;\">\n    {{msg.payload}}\n</div>",
+        "className": "",
+        "x": 1800,
+        "y": 700,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "92fc8218f9ae6c5a",
+        "type": "comment",
+        "z": "ab2f4a81bf465f8d",
+        "g": "4e1d0c813716e48b",
+        "name": "send PictureTo Azure LLM & show result in dashboard",
+        "info": "",
+        "x": 1240,
+        "y": 640,
+        "wires": []
+    },
+    {
+        "id": "a8d7b211dee94879",
+        "type": "comment",
+        "z": "ab2f4a81bf465f8d",
+        "g": "b4872f5cdd54b4ed",
+        "name": "Trigger Alarm if get MQTT message comming from fog node",
+        "info": "",
+        "x": 280,
+        "y": 800,
+        "wires": []
+    },
+    {
+        "id": "48ee20a8b6f3e1bd",
+        "type": "comment",
+        "z": "ab2f4a81bf465f8d",
+        "g": "2feb962cbd0cf177",
+        "name": "send PictureTo fog node to check if the person taking the umbrella is the one who left it.",
+        "info": "",
+        "x": 580,
+        "y": 500,
+        "wires": []
+    },
+    {
+        "id": "3d48c79380c276b4",
+        "type": "comment",
+        "z": "ab2f4a81bf465f8d",
+        "g": "7146dc38e057fa02",
+        "name": "Monitor the ultrasonic sensor for umbrella slot occupancy.",
+        "info": "",
+        "x": 270,
+        "y": 100,
+        "wires": []
+    },
+    {
+        "id": "3e9ffd49a0e7b712",
+        "type": "inject",
+        "z": "ab2f4a81bf465f8d",
+        "g": "b8f9e68a1df4fd2f",
+        "name": "Start Process",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "5",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 160,
+        "y": 1500,
+        "wires": [
+            [
+                "bae979b74d45049e"
+            ]
+        ]
+    },
+    {
+        "id": "bae979b74d45049e",
+        "type": "http request",
+        "z": "ab2f4a81bf465f8d",
+        "g": "b8f9e68a1df4fd2f",
+        "name": "ipify request",
+        "method": "GET",
+        "ret": "txt",
+        "paytoqs": "ignore",
+        "url": "https://api.ipify.org",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [
+            {
+                "keyType": "Content-Type",
+                "keyValue": "",
+                "valueType": "other",
+                "valueValue": "application/json"
+            }
+        ],
+        "x": 370,
+        "y": 1500,
+        "wires": [
+            [
+                "9d23ce11836d601a"
+            ]
+        ]
+    },
+    {
+        "id": "9d23ce11836d601a",
+        "type": "change",
+        "z": "ab2f4a81bf465f8d",
+        "g": "b8f9e68a1df4fd2f",
+        "name": "set ip address",
+        "rules": [
+            {
+                "t": "set",
+                "p": "ip",
+                "pt": "flow",
+                "to": "payload",
+                "tot": "msg"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 580,
+        "y": 1500,
+        "wires": [
+            [
+                "6a35ebb55fe59525"
+            ]
+        ]
+    },
+    {
+        "id": "6a35ebb55fe59525",
+        "type": "change",
+        "z": "ab2f4a81bf465f8d",
+        "g": "b8f9e68a1df4fd2f",
+        "name": "prepareRequestIP",
+        "rules": [
+            {
+                "t": "set",
+                "p": "method",
+                "pt": "msg",
+                "to": "GET",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "url",
+                "pt": "msg",
+                "to": "'http://ip-api.com/json/' & $flowContext('ip')",
+                "tot": "jsonata"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 790,
+        "y": 1500,
+        "wires": [
+            [
+                "67ce99b3ae10f5f5"
+            ]
+        ]
+    },
+    {
+        "id": "67ce99b3ae10f5f5",
+        "type": "http request",
+        "z": "ab2f4a81bf465f8d",
+        "g": "b8f9e68a1df4fd2f",
+        "name": "ip-api request",
+        "method": "use",
+        "ret": "obj",
+        "paytoqs": "ignore",
+        "url": "",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [
+            {
+                "keyType": "Content-Type",
+                "keyValue": "",
+                "valueType": "other",
+                "valueValue": "application/json"
+            }
+        ],
+        "x": 1000,
+        "y": 1500,
+        "wires": [
+            [
+                "0ac8ce35d316d601"
+            ]
+        ]
+    },
+    {
+        "id": "0ac8ce35d316d601",
+        "type": "change",
+        "z": "ab2f4a81bf465f8d",
+        "g": "b8f9e68a1df4fd2f",
+        "name": "set zip code",
+        "rules": [
+            {
+                "t": "set",
+                "p": "zip",
+                "pt": "flow",
+                "to": "payload.zip",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "apikey",
+                "pt": "flow",
+                "to": "YOUR_OPENWEATHER_API_KEY",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 370,
+        "y": 1600,
+        "wires": [
+            [
+                "6e102c77892b2a60"
+            ]
+        ]
+    },
+    {
+        "id": "6e102c77892b2a60",
+        "type": "change",
+        "z": "ab2f4a81bf465f8d",
+        "g": "b8f9e68a1df4fd2f",
+        "name": "prepareRequestWeather",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "GET",
+                "tot": "str",
+                "dc": true
+            },
+            {
+                "t": "set",
+                "p": "url",
+                "pt": "msg",
+                "to": "'https://api.openweathermap.org/data/2.5/weather?zip=' & $flowContext('zip') & ',us&units=metric&appid=' & $flowContext('apikey')",
+                "tot": "jsonata"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 610,
+        "y": 1600,
+        "wires": [
+            [
+                "cd5144f2d049aae0"
+            ]
+        ]
+    },
+    {
+        "id": "cd5144f2d049aae0",
+        "type": "http request",
+        "z": "ab2f4a81bf465f8d",
+        "g": "b8f9e68a1df4fd2f",
+        "name": "open weather request",
+        "method": "use",
+        "ret": "obj",
+        "paytoqs": "ignore",
+        "url": "",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "insecureHTTPParser": false,
+        "authType": "",
+        "senderr": false,
+        "headers": [
+            {
+                "keyType": "Content-Type",
+                "keyValue": "",
+                "valueType": "other",
+                "valueValue": "application/json"
+            },
+            {
+                "keyType": "User-Agent",
+                "keyValue": "",
+                "valueType": "other",
+                "valueValue": "iot_device500"
+            }
+        ],
+        "x": 860,
+        "y": 1600,
+        "wires": [
+            [
+                "9161fb36bc8ae19a"
+            ]
+        ]
+    },
+    {
+        "id": "9161fb36bc8ae19a",
+        "type": "function",
+        "z": "ab2f4a81bf465f8d",
+        "g": "b8f9e68a1df4fd2f",
+        "name": "set data info influxDB format",
+        "func": "// 取得 API 回傳的數據\nconst weather = msg.payload;\n\n// 整理成 InfluxDB 寫入格式：[ {資料欄位}, {標籤} ]\nmsg.payload = [\n    {\n        temp: weather.main.temp,        // 溫度\n        humidity: weather.main.humidity, // 濕度\n        pressure: weather.main.pressure, // 氣壓\n        wind_speed: weather.wind.speed,   // 風速\n        sunrise: weather.sys.sunrise, // 日出時間 (Unix)\n        sunset: weather.sys.sunset    // 日落時間 (Unix)\n    },\n    {\n        location: weather.name,          // 城市名稱作為標籤\n        zip: flow.get(\"zip\")             // 郵遞區號作為標籤\n    }\n];\n\n// 設定 InfluxDB 的測量名稱 (Measurement)\nmsg.measurement = \"weather_info\";\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1140,
+        "y": 1600,
+        "wires": [
+            [
+                "082e52ec9a03832a",
+                "39cfbc32fb5c9918"
+            ]
+        ]
+    },
+    {
+        "id": "082e52ec9a03832a",
+        "type": "influxdb out",
+        "z": "ab2f4a81bf465f8d",
+        "g": "b8f9e68a1df4fd2f",
+        "influxdb": "86f27fc54ca880d0",
+        "name": "DB",
+        "measurement": "weather",
+        "precision": "",
+        "retentionPolicy": "",
+        "database": "database",
+        "precisionV18FluxV20": "ms",
+        "retentionPolicyV18Flux": "",
+        "org": "organisation",
+        "bucket": "bucket",
+        "x": 1390,
+        "y": 1600,
+        "wires": []
+    },
+    {
+        "id": "39cfbc32fb5c9918",
+        "type": "debug",
+        "z": "ab2f4a81bf465f8d",
+        "g": "b8f9e68a1df4fd2f",
+        "name": "debug 12",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 1220,
+        "y": 1700,
+        "wires": []
+    },
+    {
+        "id": "c29a0bcc4e8a451b",
+        "type": "comment",
+        "z": "ab2f4a81bf465f8d",
+        "g": "b8f9e68a1df4fd2f",
+        "name": "Get Data from Openweather through RESTAPI",
+        "info": "",
+        "x": 230,
+        "y": 1440,
+        "wires": []
+    },
+    {
+        "id": "5db1bec478fdca22",
+        "type": "debug",
+        "z": "ab2f4a81bf465f8d",
+        "g": "2feb962cbd0cf177",
+        "name": "debug 13",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 780,
+        "y": 640,
+        "wires": []
+    },
+    {
+        "id": "75978d8b3764b663",
+        "type": "grovepi-led",
+        "z": "ab2f4a81bf465f8d",
+        "g": "7146dc38e057fa02",
+        "name": "Red LED_Slot_1 (D5)",
+        "pin": "5",
+        "x": 1060,
+        "y": 180,
+        "wires": []
+    },
+    {
+        "id": "2446d32b238f6e0d",
+        "type": "switch",
+        "z": "ab2f4a81bf465f8d",
+        "g": "7146dc38e057fa02",
+        "name": "Turn ON Green or Red LED",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "lt",
+                "v": "5",
+                "vt": "num"
+            },
+            {
+                "t": "gte",
+                "v": "5",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 480,
+        "y": 200,
+        "wires": [
+            [
+                "a452a1dbc481547e",
+                "66ce75a9706ee064"
+            ],
+            [
+                "3ca3aeec2bcd10e5",
+                "187172a8d46de0d8"
+            ]
+        ]
+    },
+    {
+        "id": "a452a1dbc481547e",
+        "type": "change",
+        "z": "ab2f4a81bf465f8d",
+        "g": "7146dc38e057fa02",
+        "name": "Turn On",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 760,
+        "y": 140,
+        "wires": [
+            [
+                "75978d8b3764b663"
+            ]
+        ]
+    },
+    {
+        "id": "66ce75a9706ee064",
+        "type": "change",
+        "z": "ab2f4a81bf465f8d",
+        "g": "7146dc38e057fa02",
+        "name": "Turn Off",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 760,
+        "y": 100,
+        "wires": [
+            [
+                "8d38e1c800b5eaba"
+            ]
+        ]
+    },
+    {
+        "id": "187172a8d46de0d8",
+        "type": "change",
+        "z": "ab2f4a81bf465f8d",
+        "g": "7146dc38e057fa02",
+        "name": "Turn On",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 760,
+        "y": 220,
+        "wires": [
+            [
+                "8d38e1c800b5eaba"
+            ]
+        ]
+    },
+    {
+        "id": "3ca3aeec2bcd10e5",
+        "type": "change",
+        "z": "ab2f4a81bf465f8d",
+        "g": "7146dc38e057fa02",
+        "name": "Turn Off",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 760,
+        "y": 180,
+        "wires": [
+            [
+                "75978d8b3764b663"
+            ]
+        ]
+    },
+    {
+        "id": "4868fdc2cdf4da64",
+        "type": "grovepi-led",
+        "z": "ab2f4a81bf465f8d",
+        "g": "7146dc38e057fa02",
+        "name": "Green LED Slot_2 (D4)",
+        "pin": "4",
+        "x": 1070,
+        "y": 260,
+        "wires": []
+    },
+    {
+        "id": "296afb2cce9ab821",
+        "type": "switch",
+        "z": "ab2f4a81bf465f8d",
+        "g": "7146dc38e057fa02",
+        "name": "Turn ON Green or Red LED",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "lt",
+                "v": "5",
+                "vt": "num"
+            },
+            {
+                "t": "gte",
+                "v": "5",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 480,
+        "y": 280,
+        "wires": [
+            [
+                "ca6c5dda54cc5265",
+                "8910bccf723bb86b"
+            ],
+            [
+                "50d0b30b8349c96f",
+                "4deac6451dd247a6"
+            ]
+        ]
+    },
+    {
+        "id": "8910bccf723bb86b",
+        "type": "change",
+        "z": "ab2f4a81bf465f8d",
+        "g": "7146dc38e057fa02",
+        "name": "Turn On",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 760,
+        "y": 300,
+        "wires": [
+            [
+                "8bfd534657e86e31"
+            ]
+        ]
+    },
+    {
+        "id": "ca6c5dda54cc5265",
+        "type": "change",
+        "z": "ab2f4a81bf465f8d",
+        "g": "7146dc38e057fa02",
+        "name": "Turn Off",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 760,
+        "y": 260,
+        "wires": [
+            [
+                "4868fdc2cdf4da64"
+            ]
+        ]
+    },
+    {
+        "id": "4deac6451dd247a6",
+        "type": "change",
+        "z": "ab2f4a81bf465f8d",
+        "g": "7146dc38e057fa02",
+        "name": "Turn On",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "true",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 760,
+        "y": 380,
+        "wires": [
+            [
+                "4868fdc2cdf4da64"
+            ]
+        ]
+    },
+    {
+        "id": "50d0b30b8349c96f",
+        "type": "change",
+        "z": "ab2f4a81bf465f8d",
+        "g": "7146dc38e057fa02",
+        "name": "Turn Off",
+        "rules": [
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "false",
+                "tot": "bool"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 760,
+        "y": 340,
+        "wires": [
+            [
+                "8bfd534657e86e31"
+            ]
+        ]
+    },
+    {
+        "id": "8bfd534657e86e31",
+        "type": "grovepi-led",
+        "z": "ab2f4a81bf465f8d",
+        "g": "7146dc38e057fa02",
+        "name": "Red LED_Slot_2 (D3)",
+        "pin": "3",
+        "x": 1060,
+        "y": 340,
+        "wires": []
+    },
+    {
+        "id": "3c35a31836b9c61a",
+        "type": "grovepi-analog-input",
+        "z": "ab2f4a81bf465f8d",
+        "d": true,
+        "g": "d3ad16f210e0bee4",
+        "name": "",
+        "mode": "timer",
+        "interval": "5",
+        "unit": "s",
+        "pin": "2",
+        "sensorname": "Analog Input",
+        "sensorid": "grovepi.analog-input.1",
+        "x": 590,
+        "y": 1160,
+        "wires": [
+            [
+                "4482a07be1875110",
+                "b469a20c054ac206"
+            ]
+        ]
+    },
+    {
+        "id": "b469a20c054ac206",
+        "type": "debug",
+        "z": "ab2f4a81bf465f8d",
+        "g": "d3ad16f210e0bee4",
+        "name": "debug 15",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 940,
+        "y": 1160,
+        "wires": []
+    },
+    {
+        "id": "81aefb574fc33758",
+        "type": "function",
+        "z": "ab2f4a81bf465f8d",
+        "g": "d3ad16f210e0bee4",
+        "name": "formatLCD",
+        "func": "/*\n  Function: Sensor Display Formatter\n  -----------------------------------\n  This function reads light, rotary (pressure), and ultrasonic (distance)\n  values from msg.payload, formats them for display (line1 and line2),\n  and assigns a color indicator based on the pressure value.\n*/\nconst light = Number(msg.payload.light);\nconst pressure = Number(msg.payload.rotary);\nconst distance = Number(msg.payload.ultrasonic);\n\n// Format LCD / Dashboard lines\nmsg.line1 = `Light: ${light}`;\nmsg.line2 = `Pr: ${pressure}`;\nmsg.line2 = msg.line2 + ` Dst: ${distance}`;\n\n// Assign status color based on pressure thresholds\n// Green  -> High pressure (>700)\n// Yellow -> Medium pressure (>300)\n// Red    -> Low pressure (<=300)\nif (pressure > 700) msg.color = \"green\";\nelse if (pressure > 300) msg.color = \"yellow\";\nelse msg.color = \"red\";\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1170,
+        "y": 1180,
+        "wires": [
+            [
+                "33c25c6e8ff87e0d"
+            ]
+        ]
+    },
+    {
+        "id": "33c25c6e8ff87e0d",
+        "type": "grovepi-rgblcd",
+        "z": "ab2f4a81bf465f8d",
+        "g": "d3ad16f210e0bee4",
+        "name": "Display LCD",
+        "divided": true,
+        "text": "payload",
+        "textSource": "msg",
+        "row1": "line1",
+        "row1Source": "msg",
+        "row2": "line2",
+        "row2Source": "msg",
+        "color": "color",
+        "colorSource": "msg",
+        "x": 1410,
+        "y": 1180,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "206d8b9da7104a54",
+        "type": "grovepi-rgblcd",
+        "z": "ab2f4a81bf465f8d",
+        "g": "b4872f5cdd54b4ed",
+        "name": "LCD",
+        "divided": true,
+        "text": "payload.text",
+        "textSource": "msg",
+        "row1": "payload.line1",
+        "row1Source": "msg",
+        "row2": "payload.line2",
+        "row2Source": "msg",
+        "color": "payload.color",
+        "colorSource": "msg",
+        "x": 930,
+        "y": 940,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "1fc9d881a3c7abc7",
+        "type": "function",
+        "z": "ab2f4a81bf465f8d",
+        "g": "b4872f5cdd54b4ed",
+        "name": "Show reminder",
+        "func": "msg.payload = {\n    \"line1\": \"Remember to take\",  // 螢幕要顯示的文字\n    \"line2\": \"your umbrella!\",\n    \"color\": \"yellow\"\n};\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 660,
+        "y": 960,
+        "wires": [
+            [
+                "206d8b9da7104a54"
+            ]
+        ]
+    },
+    {
+        "id": "3430071316ded50a",
+        "type": "inject",
+        "z": "ab2f4a81bf465f8d",
+        "g": "b4872f5cdd54b4ed",
+        "name": "Inject",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "ON",
+        "payloadType": "str",
+        "x": 130,
+        "y": 920,
+        "wires": [
+            [
+                "daa7533f5f939bae"
+            ]
+        ]
+    },
+    {
+        "id": "f6ab6f360d570349",
+        "type": "inject",
+        "z": "ab2f4a81bf465f8d",
+        "g": "b4872f5cdd54b4ed",
+        "name": "cleanLCD",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "{     \"line1\": \"\", \"line2\": \"\",     \"color\": \"white\" }",
+        "payloadType": "json",
+        "x": 620,
+        "y": 1020,
+        "wires": [
+            [
+                "206d8b9da7104a54"
+            ]
+        ]
+    },
+    {
+        "id": "3b572f5562036c47",
+        "type": "function",
+        "z": "ab2f4a81bf465f8d",
+        "g": "b4872f5cdd54b4ed",
+        "name": "Trigger Buzzer & LED",
+        "func": "// 檢查前一個節點傳來的 payload 裡是否有 warning\nif (msg.payload && msg.payload.warning === true) {\n    // 💡 因為是單色 LED，我們直接送出 1 代表「開」\n    msg.payload = 1; \n} else {\n    // 送出 0 代表「關」\n    msg.payload = 0;\n}\n\n// 傳送整個 msg 物件給 LED 節點\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 700,
+        "y": 860,
+        "wires": [
+            [
+                "e48063632980cc1d"
+            ]
+        ]
+    },
+    {
+        "id": "dabe05c3286c7c4c",
+        "type": "inject",
+        "z": "ab2f4a81bf465f8d",
+        "g": "b4872f5cdd54b4ed",
+        "name": "Inject",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "ON",
+        "payloadType": "str",
+        "x": 430,
+        "y": 960,
+        "wires": [
+            [
+                "1fc9d881a3c7abc7"
+            ]
+        ]
+    },
+    {
+        "id": "ab4d4cf5bda44ea0",
+        "type": "mqtt-broker",
+        "name": "myownserver",
+        "broker": "10.18.143.146",
+        "port": 1883,
+        "clientid": "",
+        "autoConnect": true,
+        "usetls": false,
+        "protocolVersion": 4,
+        "keepalive": 60,
+        "cleansession": true,
+        "autoUnsubscribe": true,
+        "birthTopic": "",
+        "birthQos": "0",
+        "birthRetain": "false",
+        "birthPayload": "",
+        "birthMsg": {},
+        "closeTopic": "",
+        "closeQos": "0",
+        "closeRetain": "false",
+        "closePayload": "",
+        "closeMsg": {},
+        "willTopic": "",
+        "willQos": "0",
+        "willRetain": "false",
+        "willPayload": "",
+        "willMsg": {},
+        "userProps": "",
+        "sessionExpiry": ""
+    },
+    {
+        "id": "0de2c976328896fa",
+        "type": "ui-group",
+        "name": "Final Project Group",
+        "page": "54a55a198d9352ab",
+        "width": "12",
+        "height": "3",
+        "order": 1,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "86f27fc54ca880d0",
+        "type": "influxdb",
+        "hostname": "10.18.66.54",
+        "port": 8086,
+        "protocol": "http",
+        "database": "umbrellarack",
+        "name": "umbrellarack",
+        "usetls": false,
+        "tls": "",
+        "influxdbVersion": "1.x",
+        "url": "http://localhost:8086",
+        "timeout": 10,
+        "rejectUnauthorized": true
+    },
+    {
+        "id": "54a55a198d9352ab",
+        "type": "ui-page",
+        "name": "Final Project",
+        "ui": "2c1dd4fdec68a164",
+        "path": "/page5",
+        "icon": "home",
+        "layout": "grid",
+        "theme": "1de7307914cf736d",
+        "breakpoints": [
+            {
+                "name": "Default",
+                "px": "0",
+                "cols": "3"
+            },
+            {
+                "name": "Tablet",
+                "px": "576",
+                "cols": "6"
+            },
+            {
+                "name": "Small Desktop",
+                "px": "768",
+                "cols": "9"
+            },
+            {
+                "name": "Desktop",
+                "px": "1024",
+                "cols": "12"
+            }
+        ],
+        "order": 1,
+        "className": "",
+        "visible": "true",
+        "disabled": "false"
+    },
+    {
+        "id": "2c1dd4fdec68a164",
+        "type": "ui-base",
+        "name": "TCSS 573 Dashboard",
+        "path": "/dashboard",
+        "appIcon": "",
+        "includeClientData": true,
+        "acceptsClientConfig": [
+            "ui-notification",
+            "ui-control"
+        ],
+        "showPathInSidebar": true,
+        "headerContent": "page",
+        "navigationStyle": "default",
+        "titleBarStyle": "default",
+        "showReconnectNotification": true,
+        "notificationDisplayTime": 1,
+        "showDisconnectNotification": true,
+        "allowInstall": true
+    },
+    {
+        "id": "1de7307914cf736d",
+        "type": "ui-theme",
+        "name": "Default Theme",
+        "colors": {
+            "surface": "#ffffff",
+            "primary": "#0094CE",
+            "bgPage": "#eeeeee",
+            "groupBg": "#ffffff",
+            "groupOutline": "#cccccc"
+        },
+        "sizes": {
+            "density": "default",
+            "pagePadding": "12px",
+            "groupGap": "12px",
+            "groupBorderRadius": "4px",
+            "widgetGap": "12px"
+        }
+    },
+    {
+        "id": "6ba6f3e1356f3e47",
+        "type": "global-config",
+        "env": [],
+        "modules": {
+            "node-red-contrib-iot4h-grovepi": "1.1.2",
+            "node-red-contrib-camerapi": "0.0.39",
+            "@flowfuse/node-red-dashboard": "1.30.2",
+            "node-red-contrib-influxdb": "0.7.0"
+        }
+    }
+]
